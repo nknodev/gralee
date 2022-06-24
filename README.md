@@ -1,2 +1,3 @@
 # gralee
-A best android music streaming app. 🎧
+### by gralee-team
+> A best android music streaming app. 🎧
